@@ -1,0 +1,48 @@
+[
+    {
+      "id": "001",
+      "cover": "https://via.placeholder.com/300x450.png?text=Book+Cover+1",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/fMXhKJz/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "posted_date": "2024-08-12",
+      "reading_times": 1523,
+      "hashtags": ["#fiction", "#adventure", "#bestseller"]
+    },
+    {
+      "id": "002",
+      "cover": "https://via.placeholder.com/300x450.png?text=Book+Cover+2",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/fMXhKJz/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "posted_date": "2024-07-05",
+      "reading_times": 2450,
+      "hashtags": ["#mystery", "#thriller", "#mustread"]
+    },
+    {
+      "id": "003",
+      "cover": "https://via.placeholder.com/300x450.png?text=Book+Cover+3",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co.com/fMXhKJz/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "posted_date": "2024-09-15",
+      "reading_times": 975,
+      "hashtags": ["#romance", "#drama", "#newrelease"]
+    },
+    {
+      "id": "004",
+      "cover": "https://via.placeholder.com/300x450.png?text=Book+Cover+4",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/fMXhKJz/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "posted_date": "2024-06-22",
+      "reading_times": 3300,
+      "hashtags": ["#sci-fi", "#space", "#trending"]
+    },
+    {
+      "id": "005",
+      "cover": "https://via.placeholder.com/300x450.png?text=Book+Cover+5",
+      "author": "Sarah Wilson",
+      "author_img": "https://i.ibb.co.com/fMXhKJz/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "posted_date": "2024-10-01",
+      "reading_times": 850,
+      "hashtags": ["#historical", "#novel", "#awardwinning"]
+    }
+  ]
+  
